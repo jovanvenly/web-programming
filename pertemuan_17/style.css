@@ -1,0 +1,43 @@
+html {
+    background-color: floralwhite;
+}
+h1 {
+    font-family:'Barriecito', cursive;
+    font-size: 3.75em;  /* = 60px */
+    text-align: center;
+    width: 18.75em; /* = 300px */
+    margin: 0 auto;
+    color: yellowgreen;
+}
+
+h2.satu {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 2em;
+    color: #00bcd4;
+
+}
+h2.dua {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 32px;
+    color:#dd2c00;
+}
+h2.tiga {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 2rem;
+    color:#521262;
+}
+ol.one {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1rem;
+    color: rgb(119, 232, 247);
+}
+ol.two {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1rem;
+    color: #ff5722;
+}
+ol.tri {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1rem;
+    color: #6639a6;
+}

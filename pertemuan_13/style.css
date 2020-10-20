@@ -1,0 +1,24 @@
+img{
+    display: block;
+}
+.first
+{
+    background-color: lightblue;
+    padding: 20px;
+    border: 10px solid red;
+    margin: 10px;
+}
+.second
+{
+    background-color: lightblue;
+    padding: 20px;
+    border: 10px solid red;
+    margin: 10px 10px 10px 200px;
+}
+.third
+{
+    background-color: lightblue;
+    padding: 20px;
+    border: 10px solid red;
+    margin: 10px 10px 10px 390px;
+}

@@ -41,5 +41,5 @@ p::selection {
     color: seagreen;
 }
 a::before{
-    content: "Link"
+    content: "Link -"
 }
