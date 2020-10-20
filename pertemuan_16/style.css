@@ -1,0 +1,17 @@
+body {
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif ;
+    font-size: 2rem; /* 100% = 16px */
+    text-align: center;
+}
+h1 {
+    font-family:'Shadows Into Light', cursive;
+    font-size: 5.625rem;
+    width: 50px;
+    margin: 0 auto;
+}
+h2 {
+    font-family: 'Roboto Mono', monospace;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+}
