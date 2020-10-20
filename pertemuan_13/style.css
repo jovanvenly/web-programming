@@ -1,24 +1,24 @@
-img{
-    display: block;
+td.ace {
+    background-color: rebeccapurple;
 }
-.first
-{
-    background-color: lightblue;
-    padding: 20px;
-    border: 10px solid red;
-    margin: 10px;
+td.cos {
+    background-color:palevioletred;
 }
-.second
-{
-    background-color: lightblue;
-    padding: 20px;
-    border: 10px solid red;
-    margin: 10px 10px 10px 200px;
+td.acu {
+    background-color: royalblue;
 }
-.third
-{
-    background-color: lightblue;
-    padding: 20px;
-    border: 10px solid red;
-    margin: 10px 10px 10px 390px;
+td.aci {
+    background-color: palegreen;
+}
+td.cas {
+    background-color: gold;
+}
+td.cis {
+    background-color: forestgreen;
+}
+td.cus {
+    background-color: deeppink;
+}
+td.alld {
+    background-color: palegreen;
 }
